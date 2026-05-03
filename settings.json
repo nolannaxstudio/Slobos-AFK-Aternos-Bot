@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zyranex.mcsh.io",
-    "port": 25565,
+    "ip": "91.197.6.19",
+    "port": 25970,
     "version": "",
     "try-creative": false
   },
