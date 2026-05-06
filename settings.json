@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zyranexsmp1598746921.aternos.me",
+    "ip": "cobra.aternos.host:11103",
     "port": 11103,
     "version": "1.21.11",
     "try-creative": false
