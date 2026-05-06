@@ -29,11 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 3600,
       "messages": [
-        "I'm a regular player",
-        "I like this server",
-        "I like to play Minecraft!"
+        "Bonne aventure à tous sur le Galactic SMP !",
       ]
     },
     "chat-log": true,
