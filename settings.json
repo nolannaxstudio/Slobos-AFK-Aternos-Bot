@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cobra.aternos.host:11103",
-    "port": 11103,
+    "ip": "frenchgalacticsmp.falix.gg",
+    "port": "20467",
     "version": "1.21.11",
     "try-creative": false
   },
