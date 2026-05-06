@@ -30,9 +30,9 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 3600,
-      "messages": [
+      "messages":
         "Bonne aventure à tous sur le Galactic SMP !",
-      ]
+      
     },
     "chat-log": true,
     "auto-reconnect": true,
