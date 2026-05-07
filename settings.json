@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "frenchgalacticsmp.falix.gg",
-    "port": "20467",
+    "ip": "frenchgalacticsmp.minekeep.gg",
+    "port": "25565",
     "version": "1.21.11",
     "try-creative": false
   },
